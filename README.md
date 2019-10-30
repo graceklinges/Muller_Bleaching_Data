@@ -1,2 +1,2 @@
-# Muller_Bleaching_Data
+# Muller Bleaching Data
 Scripts for sequence processing (demultiplexing, trimming, filtering) and ASV assignment for A. cervicornis bleaching/disease susceptibility study
